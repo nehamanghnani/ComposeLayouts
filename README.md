@@ -6,7 +6,7 @@ This Android project is developed by following along the Google Codelab for Basi
 
 ![image](https://user-images.githubusercontent.com/38379518/166153626-d89b9011-bef7-42c8-a632-258f338c7046.png)
 
-![image](https://user-images.githubusercontent.com/38379518/166153544-aabd9be9-685e-4b72-ade4-36953c1e913f.png)
+![image](https://user-images.githubusercontent.com/38379518/166153667-ae897402-9ceb-495d-a0a2-91d3b24b1fb3.png)
 
 ![image](https://user-images.githubusercontent.com/38379518/166153591-b1b488db-a00e-40b3-b59a-1802f3725d4c.png)
 
