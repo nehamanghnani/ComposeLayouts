@@ -6,6 +6,9 @@ This Android project is developed by following along the Google Codelab for Basi
 
 As of 1st May, 2022 => 
 Updated with compose pratice layouts. Reference code lab : https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems?hl=en#2
-It includes using various types of widgets like Row, Column, Box, etc.. , and different modifier types available in Compose  
+It includes using various types of widgets like Row, Column, Box, etc.. , and different modifier types available in Compose . 
+
+![image](https://user-images.githubusercontent.com/38379518/166153445-17a94fcb-478a-4c7a-8f20-122748542132.png)
+
 
 Next Up, this project will be updated for Compose States , Different Layouts and developing other complex views using Jetpack compose. 
