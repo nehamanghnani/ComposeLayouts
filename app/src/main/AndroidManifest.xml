@@ -10,16 +10,43 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ComposeExample">
         <activity
+            android:name=".QuadrantCompose"
+            android:exported="true"
+            android:label="@string/title_activity_quadrant_compose"
+            android:theme="@style/Theme.ComposeExample">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.ComposeExample">
+
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.ComposeExample">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
         </activity>
+        <activity
+            android:name=".ComposeArticle"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ComposeExample" />
     </application>
 
 </manifest>
